@@ -33,10 +33,10 @@ Clone the repo and use Python to run the programs and files.
 
 
 # File Structure of the Project
-- credentials.yaml - contains database credentials to connect to the database with web services
-- db_utils.py - contains classes to
-- data_transform.py - 
-- EDA_Analysis.ipynb - 
+- credentials.yaml - contains database credentials
+- db_utils.py - contains classes to to connect to the database with web services
+- data_transform.py - contains classes to get information about the dataset, transform the dataframe and plot graphs
+- EDA_Analysis.ipynb - full analysis of the loans payment including visualisations
 
 
 # Data Dictionary
